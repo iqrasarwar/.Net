@@ -1,0 +1,12 @@
+C:\Users\BUTT SYSTEMS\source\repos\MathLib\bin\Debug\net5.0\MathLib.deps.json
+C:\Users\BUTT SYSTEMS\source\repos\MathLib\bin\Debug\net5.0\MathLib.dll
+C:\Users\BUTT SYSTEMS\source\repos\MathLib\bin\Debug\net5.0\MathLib.pdb
+C:\Users\BUTT SYSTEMS\source\repos\MathLib\obj\Debug\net5.0\MathLib.csproj.AssemblyReference.cache
+C:\Users\BUTT SYSTEMS\source\repos\MathLib\obj\Debug\net5.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUTT SYSTEMS\source\repos\MathLib\obj\Debug\net5.0\MathLib.AssemblyInfoInputs.cache
+C:\Users\BUTT SYSTEMS\source\repos\MathLib\obj\Debug\net5.0\MathLib.AssemblyInfo.cs
+C:\Users\BUTT SYSTEMS\source\repos\MathLib\obj\Debug\net5.0\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\BUTT SYSTEMS\source\repos\MathLib\obj\Debug\net5.0\MathLib.dll
+C:\Users\BUTT SYSTEMS\source\repos\MathLib\obj\Debug\net5.0\ref\MathLib.dll
+C:\Users\BUTT SYSTEMS\source\repos\MathLib\obj\Debug\net5.0\MathLib.pdb
+C:\Users\BUTT SYSTEMS\source\repos\MathLib\obj\Debug\net5.0\refint\MathLib.dll
