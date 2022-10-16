@@ -1,0 +1,11 @@
+C:\Users\BUTT SYSTEMS\source\repos\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\BUTT SYSTEMS\source\repos\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\BUTT SYSTEMS\source\repos\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\BUTT SYSTEMS\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.AssemblyReference.cache
+C:\Users\BUTT SYSTEMS\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUTT SYSTEMS\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\BUTT SYSTEMS\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+C:\Users\BUTT SYSTEMS\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\BUTT SYSTEMS\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\BUTT SYSTEMS\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+C:\Users\BUTT SYSTEMS\source\repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Form1.resources
