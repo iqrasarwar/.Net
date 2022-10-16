@@ -1,0 +1,12 @@
+C:\Users\BUTT SYSTEMS\source\repos\BussinessObjects\bin\Debug\net5.0\BussinessObjects.deps.json
+C:\Users\BUTT SYSTEMS\source\repos\BussinessObjects\bin\Debug\net5.0\BussinessObjects.dll
+C:\Users\BUTT SYSTEMS\source\repos\BussinessObjects\bin\Debug\net5.0\ref\BussinessObjects.dll
+C:\Users\BUTT SYSTEMS\source\repos\BussinessObjects\bin\Debug\net5.0\BussinessObjects.pdb
+C:\Users\BUTT SYSTEMS\source\repos\BussinessObjects\obj\Debug\net5.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUTT SYSTEMS\source\repos\BussinessObjects\obj\Debug\net5.0\BussinessObjects.AssemblyInfoInputs.cache
+C:\Users\BUTT SYSTEMS\source\repos\BussinessObjects\obj\Debug\net5.0\BussinessObjects.AssemblyInfo.cs
+C:\Users\BUTT SYSTEMS\source\repos\BussinessObjects\obj\Debug\net5.0\BussinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\BUTT SYSTEMS\source\repos\BussinessObjects\obj\Debug\net5.0\BussinessObjects.dll
+C:\Users\BUTT SYSTEMS\source\repos\BussinessObjects\obj\Debug\net5.0\ref\BussinessObjects.dll
+C:\Users\BUTT SYSTEMS\source\repos\BussinessObjects\obj\Debug\net5.0\BussinessObjects.pdb
+C:\Users\BUTT SYSTEMS\source\repos\BussinessObjects\obj\Debug\net5.0\BussinessObjects.csproj.AssemblyReference.cache
