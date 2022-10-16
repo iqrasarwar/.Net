@@ -1,1 +1,1 @@
-# Some DotNet VS Code Projects  
+# Some DotNet VS Projects  
